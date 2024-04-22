@@ -32,10 +32,11 @@ aws s3 mb s3://bucket-name --region us-east-1
 "# AWS_POC_-Face-Recognition" 
 
 
--------------------------------------------------------**DETAILED EXPLANATION**---------------------------------------------------
+Linkedin--->https://www.linkedin.com/posts/brendan-ryan-devasagay-a-180788257_day5-aws-pepcloudchallenge-activity-7188246745817010178-3WRc?utm_source=share&utm_medium=member_desktop
 
 
 # AWS Facial Recognition POC
+**Detailed Explanation**
 
 ## Introduction
 In this Proof of Concept (POC), we explore the implementation of facial recognition using AWS services such as Amazon S3, AWS Lambda, Amazon Rekognition, and Amazon DynamoDB. The goal is to demonstrate how these services can be integrated to build a facial recognition system that analyzes uploaded images, detects faces, and stores associated metadata in a database.
